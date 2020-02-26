@@ -1,2 +1,2 @@
-from Preguntadatos import main
+from Usoregex import main
 main()
